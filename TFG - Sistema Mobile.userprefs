@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TFG - Sistema Mobile\Activity3.cs">
+    <Files>
+      <File FileName="TFG - Sistema Mobile\Activity3.cs" Line="23" Column="15" />
+      <File FileName="TFG - Sistema Mobile\Activity1.cs" Line="95" Column="64" />
+      <File FileName="d:\Programacao\C#\TFG - Sistema Mobile\TFG - Sistema Mobile\Activity2.cs" Line="92" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Programacao\C#\TFG - Sistema Mobile\TFG - Sistema Mobile\Activity1.cs" line="19" />
+      <Breakpoint file="D:\Programacao\C#\TFG - Sistema Mobile\TFG - Sistema Mobile\Activity1.cs" line="236" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TFG_220-_220Sistema_220Mobile MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

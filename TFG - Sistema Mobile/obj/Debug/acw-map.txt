@@ -1,0 +1,3 @@
+TFG___Sistema_Mobile.Activity1;tfg___sistema_mobile.Activity1
+TFG___Sistema_Mobile.Activity2;tfg___sistema_mobile.Activity2
+TFG___Sistema_Mobile.Activity3;tfg___sistema_mobile.Activity3
